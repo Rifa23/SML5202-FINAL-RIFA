@@ -19,3 +19,30 @@ close-bosomed friend of the maturing sun<br>
   <li>  drop off your item to the post office </li>
   <li> wait for a refund  </li>
   </ul> 
+
+<h1> Section 1 </h1>
+
+<p>  Hello. My name is Rifa and I am currently studying German with Business
+management at Queen Mary University of London. I was born and raised in Germany, lived there my whole childhood 
+and then I came to London around 8 years ago. 
+
+Visit my QMULplus Hub page:
+<a https://hub.qmplus.qmul.ac.uk/ </a>
+</p>
+
+<h1> Section 2 </h1>
+<p> Three things I have to do: </p>
+<ul> 
+<li> Repair my Laptop </li>
+<li> Do my Homework </li>
+<li> Buy a new charger </li>
+
+<h1> Section 3 </h1> 
+<p> Three of my favourite things: </p>
+<ol> 
+<li> Eating Ice Cream </li>
+<li> Reading books </li>
+<li> Watching movies </li> 
+</ol>
+
+<Hr>
