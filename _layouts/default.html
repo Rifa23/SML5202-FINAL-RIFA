@@ -27,6 +27,8 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.baseurl }}" class="btn">Home</a>
+        <a href="{{ site.github.page2 }}" class="btn">page2</a>
+       <a href="{{ site.github.page3 }}" class="btn">page3</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
