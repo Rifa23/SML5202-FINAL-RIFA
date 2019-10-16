@@ -21,7 +21,7 @@
 <table>
 <tr><th> present </th><th> past </th><th> Future </th></tr>
 <tr><td> Walk </td><td> Walked </td><th> Walk </td></tr>
-<tr><td> do </td><td> Do </td><td> did </td><td> Will do </td></tr>
+<tr><td> do </td><td> did </td><td> Will do </td></tr>
 <tr><td> Break </td><td> Broke </td><td> Broke </td></tr> 
 </table>
 
