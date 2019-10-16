@@ -1,4 +1,4 @@
-<h1> Page 2 </h1>
+<h1> HTML Homework part 2 </h1>
  <p>
   <a href="index.html">Home</a> <br>
   <a href="page3.html">Page 3</a>
@@ -16,7 +16,7 @@
 <dd>The Berlin Wall was constructed as a way of preventing East Germans from entering West Germany. It was not so much a boundary for West Germans wanting to enter the East, who were able to do so by obtaining a permit several weeks in advance. It didn't face much opposition by the western powers as its construction confirmed that the Soviet Union were not planning to take over West Berlin. </dd>
 <dt> Fact Three </dt>
 <dd>Official figures show that at least 136 people died trying to cross the border. People attempting to get from East to West were regarded as traitors and guards were instructed to shoot at them if they attempted to cross, although not to kill them. </dd> 
-</dt> 
+ 
 
 <table>
 <tr><th> present </th><th> past </th><th> Future </th></tr>
