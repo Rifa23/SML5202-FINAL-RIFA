@@ -4,7 +4,7 @@
   <a href="page3.html">Page 3</a>
   </p>
   
-  <p> Today's date is the 15<sup> th</sup> </p>
+  <p> Today's date is the 15<sup> th</sup> october 2019 </p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg" alt="View from the West Berlin side of graffiti art on the Wall in 1986. The Wall's death strip, on the east side of the Wall, here follows the curve of the Luisenstadt Canal">
 
