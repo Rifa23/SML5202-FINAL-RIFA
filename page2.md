@@ -6,7 +6,7 @@
   
   <p> Today's date is the 15<sup> th</sup> </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg" alt="View from the West Berlin side of graffiti art on the Wall in 1986. The Wall's death strip, on the east side of the Wall, here follows the curve of the Luisenstadt Canal" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg" alt="View from the West Berlin side of graffiti art on the Wall in 1986. The Wall's death strip, on the east side of the Wall, here follows the curve of the Luisenstadt Canal">
 
 <p> Three facts about Berliner Mauer </p>
 <dl> 
@@ -27,5 +27,4 @@
 
 <p>
 Hallo, Ich heiße Rifa und ich studiere Deutsch mit Betriebswirtschaftslehre. 
-<lang="de">
  </p>
