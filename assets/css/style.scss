@@ -2,7 +2,12 @@
 ---
 
 @import 'jekyll-theme-cayman';
+@import url('https://fonts.googleapis.com/css?family=Hind|Playfair+Display&display=swap');
 
+body {
+font-family: 'Playfair Display', serif;
+}
+    
 
 .page-header {
     color: #fff;
