@@ -52,9 +52,7 @@ Visit my QMULplus Hub page:
   <a href="page3.html">Page 3</a>
   </p>
 
-<!DOCTYPE html>
-<html>
-
+<hr>
 
 <h1>Random Idiom Using JSON</h1>
 
