@@ -62,7 +62,7 @@ Visit my QMULplus Hub page:
 
 
 <script>
-const endpoint = 'https://martinbarge.github.io/sml5202-19-sts/datasets/idioms.json';
+const endpoint = 'https://rifa23.github.io/SML502-RifaM/datasets/idioms.json';
 
 function getQuote() {
 fetch(endpoint)
