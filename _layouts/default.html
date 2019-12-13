@@ -23,20 +23,15 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <div class="german-flag">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.baseurl }}" class="btn">Home</a>
-        <a href="{{ site.github.page2 }}" class="btn">page2</a>
-       <a href="{{ site.github.page3 }}" class="btn">page3</a>
-      <a href="{{ site.github.page4 }}" class="btn">Exercise</a>
+        <a href="{{ site.github.page2 }}" class="btn">Present Tense</a>
+       <a href="{{ site.github.page3 }}" class="btn">Past Tense</a>
+      <a href="{{ site.github.page4 }}" class="btn">Future Tense</a>
+       <a href="{{ site.github.page5 }}" class="btn">Test Yourself</a>
       {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-        </div>
     </header>
 
     <main id="content" class="main-content" role="main">
