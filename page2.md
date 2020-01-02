@@ -3,7 +3,7 @@
 <p>To form a sentence in German with the present tense, it is essential that the ending <strong>-en</strong> of the inifitive is taken off and is then conjugated with the <strong>personal endings.</strong></p>
 <p>Here is an example of an regular infinitive 'Lernen':&nbsp; &nbsp;&nbsp;</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://www.learn-german-smarter.com/wp-content/uploads/2015/06/Bildschirmfoto-2015-04-20-um-17.11.52.png" alt="infinitive" width="495" height="179" />
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; The verb 'Lernen' should be then conjugated with the following endins below:</p>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  The verb 'Lernen' should be then conjugated with the following endins below:</p>
 <p>ich lern<strong>e</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I learn</p>
 <p>du lern<strong>st&nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; you learn</p>
 <p>er/sie/es lern<strong>t</strong>&nbsp; &nbsp; &nbsp; &nbsp;he/she/it learns&nbsp;</p>
