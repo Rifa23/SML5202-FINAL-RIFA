@@ -3,7 +3,7 @@
 <p>To form a sentence in German with the present tense, it is essential that the ending <strong>-en</strong> of the inifitive is taken off and is then conjugated with the <strong>personal endings.</strong></p>
 <p>Here is an example of an regular infinitive 'Lernen':&nbsp; &nbsp;&nbsp;</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://www.learn-german-smarter.com/wp-content/uploads/2015/06/Bildschirmfoto-2015-04-20-um-17.11.52.png" alt="infinitive" width="495" height="179" />
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp; &nbsp; &nbsp;  The verb 'Lernen' should be then conjugated with the following endings below:</p>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp; &nbsp; &nbsp;&nbsp;  &nbsp; &nbsp; &nbsp;The verb 'Lernen' should be then conjugated with the following endings below:</p>
 <p>ich lern<strong>e</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I learn</p>
 <p>du lern<strong>st&nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; you learn</p>
 <p>er/sie/es lern<strong>t</strong>&nbsp; &nbsp; &nbsp; &nbsp;he/she/it learns&nbsp;</p>
@@ -76,4 +76,5 @@
 <p>Sie/sie sind (<strong>they are&nbsp;</strong>)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sie/sie haben (<strong>you have</strong>)</p>
 <p></p>
 
+<p> A quick way to revise and review the present tense in German.</p> 
 <iframe src="https://h5p.org/h5p/embed/688553" width="1090" height="855" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
