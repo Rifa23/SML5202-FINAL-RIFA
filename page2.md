@@ -3,7 +3,7 @@
 <p>To form a sentence in German with the present tense, it is essential that the ending <strong>-en</strong> of the inifitive is taken off and is then conjugated with the <strong>personal endings.</strong></p>
 <p>Here is an example of an regular infinitive 'Lernen':&nbsp; &nbsp;&nbsp;</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://www.learn-german-smarter.com/wp-content/uploads/2015/06/Bildschirmfoto-2015-04-20-um-17.11.52.png" alt="infinitive" width="495" height="179" />
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; The verb 'Lernen' should be then conjugated with the following endins below:</p>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; The verb 'Lernen' should be then conjugated with the following endins below:</p>
 <p>ich lern<strong>e</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I learn</p>
 <p>du lern<strong>st&nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; you learn</p>
 <p>er/sie/es lern<strong>t</strong>&nbsp; &nbsp; &nbsp; &nbsp;he/she/it learns&nbsp;</p>
@@ -66,11 +66,13 @@
 </table>
 <p></p>
 <p><!-- This comment is visible only in the source editor --></p>
-<p>There are also two very important irregular verbs that you should know:</p>
-<p>seine=<strong>to be</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; habe=<strong>to have&nbsp;</strong></p>
+<p>There are&nbsp; two very important verbs that should be well known as these two verbs are the main base of forming a sentence in the present tense.&nbsp;</p>
+<p>sein=<strong>to be</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;habe=<strong>to have&nbsp;</strong></p>
 <p>ich bin (<strong>i am</strong>)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ich habe (<strong>i have</strong>)</p>
 <p>du bist (<strong>you are</strong>)<strong>&nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; du hast (<strong>you have</strong>)</p>
 <p>er/sie/es ist (<strong>he/she/it&nbsp;is</strong>)<strong>&nbsp; &nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; er/sie/es hat (<strong>he/she/it has</strong>)</p>
 <p>wir sind&nbsp;(<strong>we are</strong>)<strong>&nbsp; </strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;wir haben (<strong>we have</strong>)</p>
 <p>ihr seid (<strong>you are</strong>)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ihr habt (<strong>you have</strong>)</p>
 <p>Sie/sie sind (<strong>they are&nbsp;</strong>)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sie/sie haben (<strong>you have</strong>)</p>
+<p></p>
+<p></p>
