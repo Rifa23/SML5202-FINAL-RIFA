@@ -2,7 +2,8 @@
 <p>The present tense is used to express what you are doing at a particular moment but is also used to express things that is done regularly. In English, there are two ways to in an action taking place in the present tense. For example: ' I learn' and 'I am learning'. In German there is only one way, 'Ich lerne'.&nbsp;</p>
 <p>To form a sentence in German with the present tense, it is essential that the ending <strong>-en</strong> of the inifitive is taken off and is then conjugated with the <strong>personal endings.</strong></p>
 <p>Here is an example of an regular infinitive 'Lernen':&nbsp; &nbsp;&nbsp;</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://www.learn-german-smarter.com/wp-content/uploads/2015/06/Bildschirmfoto-2015-04-20-um-17.11.52.png" alt="infinitive" width="495" height="179" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The verb 'Lernen' should be then conjugated with the following endins below:</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://www.learn-german-smarter.com/wp-content/uploads/2015/06/Bildschirmfoto-2015-04-20-um-17.11.52.png" alt="infinitive" width="495" height="179" />
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; The verb 'Lernen' should be then conjugated with the following endins below:</p>
 <p>ich lern<strong>e</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I learn</p>
 <p>du lern<strong>st&nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; you learn</p>
 <p>er/sie/es lern<strong>t</strong>&nbsp; &nbsp; &nbsp; &nbsp;he/she/it learns&nbsp;</p>
@@ -65,7 +66,7 @@
 </table>
 <p></p>
 <p><!-- This comment is visible only in the source editor --></p>
-<p>There is alos two very important irregular verbs that you should know:</p>
+<p>There are also two very important irregular verbs that you should know:</p>
 <p>seine=<strong>to be</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; habe=<strong>to have&nbsp;</strong></p>
 <p>ich bin (<strong>i am</strong>)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ich habe (<strong>i have</strong>)</p>
 <p>du bist (<strong>you are</strong>)<strong>&nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; du hast (<strong>you have</strong>)</p>
