@@ -10,6 +10,7 @@
 <p>wir lern<strong>en&nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; we learn&nbsp;</p>
 <p>ihr lern<strong>t&nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;you learn</p>
 <p>Sie/sie lern<strong>en</strong>&nbsp; &nbsp; &nbsp; &nbsp;you learn&nbsp;</p>
+<hr>
 <p>Most of the verbs are conjugated with the endings,<strong>-e,-st,-t,-en,-t,-en.&nbsp;</strong>However, there are some irregular verbs that doesn't follow the pattern above. Here are some useful irregular verbs:</p>
 <table style="width: 490px;" cellspacing="1" cellpadding="yes"><caption><strong>Infinitive </strong></caption>
 <tbody>
@@ -65,6 +66,7 @@
 </tbody>
 </table>
 <p></p>
+<hr>
 <p>There are&nbsp; two very important verbs that should be well known as these two verbs are the main base of forming a sentence in the present tense.&nbsp;</p>
 <p>sein=<strong>to be</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;habe=<strong>to have&nbsp;</strong></p>
 <p>ich bin (<strong>i am</strong>)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ich habe (<strong>i have</strong>)</p>
