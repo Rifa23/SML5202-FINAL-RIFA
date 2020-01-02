@@ -78,6 +78,6 @@
 
 <p> A quick way to revise and review the present tense in German.</p> 
 <iframe src="https://h5p.org/h5p/embed/688553" width="1090" height="855" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-Fill in the missing letters. 
+<p>Fill in the missing letters. </p>
 <iframe src="https://h5p.org/h5p/embed/688553" width="1090" height="1000" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
