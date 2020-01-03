@@ -1,4 +1,4 @@
-<h1>Present Tense (Das Imperfekt)</h1>
+<h1>Present Tense (Präsens)</h1>
 <p>The present tense is used to express what you are doing at a particular moment but is also used to express things that is done regularly. In English, there are two ways to in an action taking place in the present tense. For example: ' I learn' and 'I am learning'. In German there is only one way, 'Ich lerne'.&nbsp;</p>
 <p>To form a sentence in German with the present tense, it is essential that the ending <strong>-en</strong> of the inifitive is taken off and is then conjugated with the <strong>personal endings.</strong></p>
 <p>Here is an example of an regular infinitive 'Lernen':&nbsp; &nbsp;&nbsp;</p>
