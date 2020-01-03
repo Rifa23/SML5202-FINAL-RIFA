@@ -84,9 +84,8 @@
 <iframe src="https://h5p.org/h5p/embed/688682" width="1090" height="268" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <iframe src="https://h5p.org/h5p/embed/688687" width="1090" height="269" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+<hr>
 <p>Links for further study:&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;<a href="https://www.learn-german-smarter.com/german-tenses-preterite/">https://www.learn-german-smarter.com/german-tenses-preterite/</a></p>
 <p><a href="https://www.learn-german-smarter.com/learn-german-grammar-pluperfect/">https://www.learn-german-smarter.com/learn-german-grammar-pluperfect/</a></p>
 <p><a href="https://www.thoughtco.com/german-past-tenses-how-to-use-4069394">https://www.thoughtco.com/german-past-tenses-how-to-use-4069394</a></p>
