@@ -1,4 +1,4 @@
-<h1 class="centeredText" style="text-align: left;">Simple past tense</h1>
+<h1 class="centeredText" style="text-align: left;">Simple past tense </h1>
 <p>The simple past tense refers to the actions or movements that has already been done. The simple past tense is formed by using the present infinitive stem, the weak past morpheme <strong>-te</strong> and the personal pronouns endings.&nbsp;</p>
 <p>Here is an example of the verb 'arbeiten' and 'm&ouml;gen' in the simple past tense:&nbsp;</p>
 <p>ich arbeit<strong><span style="color: #0000ff;">e</span><span style="color: #ff0000;">te&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></strong>I worked&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ich moch<strong><span style="color: #ff0000;">te</span>&nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;I liked&nbsp;</p>
