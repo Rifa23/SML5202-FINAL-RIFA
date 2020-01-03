@@ -1,4 +1,4 @@
-<h1>Present Tense (Präsens)</h1>
+<h1 style="text-align: center;">The present tense (Pr&auml;sens)</h1>
 <p>The present tense is used to express what you are doing at a particular moment but is also used to express things that is done regularly. In English, there are two ways to in an action taking place in the present tense. For example: ' I learn' and 'I am learning'. In German there is only one way, 'Ich lerne'.&nbsp;</p>
 <p>To form a sentence in German with the present tense, it is essential that the ending <strong>-en</strong> of the inifitive is taken off and is then conjugated with the <strong>personal endings.</strong></p>
 <p>Here is an example of an regular infinitive 'Lernen':&nbsp; &nbsp;&nbsp;</p>
@@ -84,5 +84,10 @@
 <iframe src="https://h5p.org/h5p/embed/688553" width="1090" height="470" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
+<p>Links for further study:&nbsp;</p>
+<p><a href="https://www.thoughtco.com/conjugating-the-german-verb-sein-4066228">https://www.thoughtco.com/conjugating-the-german-verb-sein-4066228</a></p>
+<p><a href="https://www.learn-german-smarter.com/learn-german-grammar-present-tense/">https://www.learn-german-smarter.com/learn-german-grammar-present-tense/</a></p>
+<p><a href="https://www.learn-german-smarter.com/learn-german-grammar-perfect-tense/">https://www.learn-german-smarter.com/learn-german-grammar-perfect-tense/</a></p>
+<p>&nbsp;</p>
 
 
