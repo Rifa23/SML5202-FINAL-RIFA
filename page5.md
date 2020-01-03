@@ -1,5 +1,5 @@
-<p style="text-align: justify;">This is a quick and easy way to test what you know. This will test your knowledge about the three main tenses, the present tense, simple past tense and the future tense 1. To fully examine how well you know these tenses, it is essential to go over all the previous pages to do these activities.</p>
-<p style="text-align: justify;"><strong>This mini test is to help you understand where you are at with your studies or with your level of German. Any further infomation on all the six tenses of German are right at the bottom of the page</strong>.</p>
+<p style="text-align: left;">This is a quick and easy way to test what you know. This will test your knowledge about the three main tenses, the present tense, simple past tense and the future tense 1. To fully examine how well you know these tenses, it is essential to go over all the previous pages to do these activities.</p>
+<p style="text-align: left;"><strong>This mini test is to help you understand where you are at with your studies or with your level of German. Any further infomation on all the six tenses of German are right at the bottom of this page</strong>.</p>
 <h3 style="text-align: center;"><em>Before you test yourself:</em></h3>
 <p>&nbsp;<span style="text-decoration: underline;">Useful German Phrases:</span>&nbsp; &nbsp; &nbsp;</p>
 <ul>
