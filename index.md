@@ -6,4 +6,7 @@
 <p><strong>Futrue I tense</strong> - The future I tense is used to talk abou the future and this is tense is straight forward as this has a very predictable pattern as the irregular verbs also go with the same rule as the regular verbs.</p>
 <p>&nbsp;</p>
 
+<p><img src="https://sd.keepcalms.com/i/keep-calm-and-learn-german-48.png" alt="" width="479" height="269" /></p>
+<p>&nbsp;</p>
 
+<p><strong>Although, this website is only looking at three out of the six tenses, further infomation about all the six tenses will be linked down below for continous revision.&nbsp;</strong></p>
