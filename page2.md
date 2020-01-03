@@ -77,12 +77,12 @@
 <p>Sie/sie sind (<strong>they are&nbsp;</strong>)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sie/sie haben (<strong>you have</strong>)</p>
 <p></p>
 <hr>
-<p> A quick way to revise and review the present tense in German.</p> 
+<p> Revise and recap on the present tense.</p> 
 <iframe src="https://h5p.org/h5p/embed/688578" width="1090" height="855" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<p>Fill in the missing letters. </p>
-<iframe src="https://h5p.org/h5p/embed/688553" width="1090" height="470" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+<iframe src="https://h5p.org/h5p/embed/688553" width="1090" height="470" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<hr>
 <p>Links for further study:&nbsp;</p>
 <p><a href="https://www.thoughtco.com/conjugating-the-german-verb-sein-4066228">https://www.thoughtco.com/conjugating-the-german-verb-sein-4066228</a></p>
 <p><a href="https://www.learn-german-smarter.com/learn-german-grammar-present-tense/">https://www.learn-german-smarter.com/learn-german-grammar-present-tense/</a></p>
