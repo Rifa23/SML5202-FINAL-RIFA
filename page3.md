@@ -1,4 +1,4 @@
-<h1 class="centeredText" style="text-align: left;">Simple past tense (Das Imperfekt) </h1>
+<h1 style="text-align: center;">The Simple past tense (Das Imperfekt)</h1>
 <p>The simple past tense refers to the actions or movements that has already been done. The simple past tense is formed by using the present infinitive stem, the weak past morpheme <strong>-te</strong> and the personal pronouns endings.&nbsp;</p>
 <p>Here is an example of the verb 'arbeiten' and 'm&ouml;gen' in the simple past tense:&nbsp;</p>
 <p>ich arbeit<strong><span style="color: #0000ff;">e</span><span style="color: #ff0000;">te&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></strong>I worked&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ich moch<strong><span style="color: #ff0000;">te</span>&nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;I liked&nbsp;</p>
@@ -84,3 +84,10 @@
 <iframe src="https://h5p.org/h5p/embed/688682" width="1090" height="268" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <iframe src="https://h5p.org/h5p/embed/688687" width="1090" height="269" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<p>Links for further study:&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;<a href="https://www.learn-german-smarter.com/german-tenses-preterite/">https://www.learn-german-smarter.com/german-tenses-preterite/</a></p>
+<p><a href="https://www.learn-german-smarter.com/learn-german-grammar-pluperfect/">https://www.learn-german-smarter.com/learn-german-grammar-pluperfect/</a></p>
+<p><a href="https://www.thoughtco.com/german-past-tenses-how-to-use-4069394">https://www.thoughtco.com/german-past-tenses-how-to-use-4069394</a></p>
+
