@@ -9,4 +9,4 @@
 <p><img src="https://sd.keepcalms.com/i/keep-calm-and-learn-german-48.png" alt="" width="479" height="269" /></p>
 <p>&nbsp;</p>
 
-<p><strong>Although, this website is only looking at three out of the six tenses, further infomation about all the six tenses will be linked on every page down below for further study.&nbsp;</strong></p>
+<p><strong>Although, this website is only looking at three out of the six tenses, further infomation about all the six tenses will be linked on every page down below, for further study.&nbsp;</strong></p>
